@@ -6,8 +6,8 @@
 
 # Modules
 - **`FileParser`** : Split Text/CSV Files and Create DataTable
-- `**JsonSchemaGenerator**` : Parse JSON Data and Create Schema
-- `**SQLWorker**` : Do SQL Server Connection and Run Queries
-- `**SystemTimer**` : Set System Timer on Background Thread
-- `**Tracer**` : Trace Logs and Do Extra Works
+- **`JsonSchemaGenerator`** : Parse JSON Data and Create Schema
+- **`SQLWorker`** : Do SQL Server Connection and Run Queries
+- **`SystemTimer`** : Set System Timer on Background Thread
+- **`Tracer`** : Trace Logs and Do Extra Works
 
